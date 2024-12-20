@@ -29,3 +29,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanhefeng&layout=compact&hide_border=true&hide_title=false&theme=buefy" />
   </div>
 </div>
+<div>
+  <h2>
+    <img src="./assets/icons/wechat.svg" alt="icon" width=20 />
+    Contact Me
+  </h2>
+  <img src="./assets/images/my-wechat.svg" alt="MY WECHAT QR CODE" width=200 />
+</div>
