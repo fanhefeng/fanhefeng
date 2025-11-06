@@ -1,4 +1,10 @@
 <div align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20there!%20I%20am%20Fan.&fontSize=70&color=0:7b68ee,100:c71585&stroke=c71585">
+      <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20there!%20I%20am%20Fan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" />
+  </picture>
+</div>
+<div align="center">
   <h1>Hi there 👋🏻 I'm Fan</h1>
   <a href="https://github.com/fanhefeng">
     <img src="https://komarev.com/ghpvc/?username=fanhefeng&color=red" alt="Profile Views">
