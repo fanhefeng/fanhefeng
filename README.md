@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi%20there!%20I%20am%20Fan.&height=150&fontSize=60">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi%20there!%20I%20am%20fhf.&height=150&fontSize=60">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20there!%20I%20am%20Fan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" />
   </picture>
 </div>
