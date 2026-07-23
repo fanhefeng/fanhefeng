@@ -37,14 +37,14 @@
   GitHub Analytics
 </h2>
   
-<!-- github-readme-stats.vercel.app 公共实例已停摆（DEPLOYMENT_PAUSED），改用下面两个服务 -->
+<!-- 自部署实例（Vercel: fhfs-projects），不依赖公共实例 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanhefeng&theme=transparent" height="200" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fanhefeng&theme=transparent" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats-fanhefeng.vercel.app/api?username=fanhefeng&show_icons=true&count_private=true&rank_icon=github&hide_title=true&hide_border=true&bg_color=00000000&include_all_commits=true&show_owner=true&theme=buefy&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fanhefeng.vercel.app/api/top-langs/?username=fanhefeng&layout=compact&hide_border=true&hide_title=false&theme=buefy" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fanhefeng&hide_border=true&background=00000000&ring=703EE5&fire=B678C4&currStreakNum=703EE5&sideNums=703EE5&currStreakLabel=8871E5&sideLabels=8871E5&dates=9F9F9F" alt="GitHub Streak" />
+  <img src="https://streak-stats-fanhefeng.vercel.app/?user=fanhefeng&hide_border=true&background=00000000&ring=703EE5&fire=B678C4&currStreakNum=703EE5&sideNums=703EE5&currStreakLabel=8871E5&sideLabels=8871E5&dates=9F9F9F" alt="GitHub Streak" />
 </div>
 
 <h2>🎧 I'm listening</h2>
