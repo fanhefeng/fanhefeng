@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi%20there!%20I%20am%20fhf.&height=150&fontSize=60">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20there!%20I%20am%20Fan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20there!%20I%20am%20Fan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="banner" />
   </picture>
 </div>
 
@@ -23,13 +23,13 @@
 </h2>
   
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,ts" />
-  <img src="https://skillicons.dev/icons?i=vue,pinia,react,nextjs,electron,bootstrap,tailwind,jquery" />
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,pnpm,bun,express" />
-  <img src="https://skillicons.dev/icons?i=webpack,vite,docker,jenkins" />
-  <img src="https://skillicons.dev/icons?i=git,gitlab" />
-  <img src="https://skillicons.dev/icons?i=github,codepen" />
-  <img src="https://skillicons.dev/icons?i=vscode,obsidian,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,less,sass,js,ts" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=vue,pinia,react,nextjs,electron,bootstrap,tailwind,jquery" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,pnpm,bun,express" alt="runtime & package managers" />
+  <img src="https://skillicons.dev/icons?i=webpack,vite,docker,jenkins" alt="build & devops" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab" alt="version control" />
+  <img src="https://skillicons.dev/icons?i=github,codepen" alt="platforms" />
+  <img src="https://skillicons.dev/icons?i=vscode,obsidian,notion" alt="tools" />
 </div>
 
 <h2>
@@ -37,16 +37,21 @@
   GitHub Analytics
 </h2>
   
+<!-- github-readme-stats.vercel.app 公共实例已停摆（DEPLOYMENT_PAUSED），改用下面两个服务 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fanhefeng&show_icons=true&count_private=true&rank_icon=github&hide_title=true&hide_border=true&bg_color=00000000&include_all_commits=true&show_owner=true&theme=buefy&hide=stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanhefeng&layout=compact&hide_border=true&hide_title=false&theme=buefy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanhefeng&theme=transparent" height="200" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fanhefeng&theme=transparent" height="200" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fanhefeng&hide_border=true&background=00000000&ring=703EE5&fire=B678C4&currStreakNum=703EE5&sideNums=703EE5&currStreakLabel=8871E5&sideLabels=8871E5&dates=9F9F9F" alt="GitHub Streak" />
 </div>
 
 <h2>🎧 I'm listening</h2>
 
 <div>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lcstjuflq7pp2jokxir2elniky&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lcstjuflq7pp2jokxir2elniky&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=1DB954&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lcstjuflq7pp2jokxir2elniky&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=1DB954&bar_color_cover=true" alt="Spotify now playing">
   </a>
 </div>
 
